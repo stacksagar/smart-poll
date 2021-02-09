@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/smart-poll/static/js/main.5af2d365.chunk.js",
+    "main.js.map": "/smart-poll/static/js/main.5af2d365.chunk.js.map",
+    "runtime-main.js": "/smart-poll/static/js/runtime-main.5fdaef56.js",
+    "runtime-main.js.map": "/smart-poll/static/js/runtime-main.5fdaef56.js.map",
+    "static/css/2.dcb9beed.chunk.css": "/smart-poll/static/css/2.dcb9beed.chunk.css",
+    "static/js/2.27120a24.chunk.js": "/smart-poll/static/js/2.27120a24.chunk.js",
+    "static/js/2.27120a24.chunk.js.map": "/smart-poll/static/js/2.27120a24.chunk.js.map",
+    "index.html": "/smart-poll/index.html",
+    "static/css/2.dcb9beed.chunk.css.map": "/smart-poll/static/css/2.dcb9beed.chunk.css.map",
+    "static/js/2.27120a24.chunk.js.LICENSE.txt": "/smart-poll/static/js/2.27120a24.chunk.js.LICENSE.txt",
+    "static/media/loading.30c0aa7c.gif": "/smart-poll/static/media/loading.30c0aa7c.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fdaef56.js",
+    "static/css/2.dcb9beed.chunk.css",
+    "static/js/2.27120a24.chunk.js",
+    "static/js/main.5af2d365.chunk.js"
+  ]
+}
